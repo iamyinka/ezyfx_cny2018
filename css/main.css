@@ -4,6 +4,7 @@
 /*red = #CA000F*/
 
 body {
+	background: #fff url('../images/bg.gif');
 	box-sizing: border-box;
 	overflow-x: hidden;
 	padding: 0;
